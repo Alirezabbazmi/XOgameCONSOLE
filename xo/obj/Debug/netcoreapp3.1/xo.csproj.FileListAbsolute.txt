@@ -1,0 +1,14 @@
+C:\Users\alireza\source\repos\game\xo\xo\obj\Debug\netcoreapp3.1\xo.csprojAssemblyReference.cache
+C:\Users\alireza\source\repos\game\xo\xo\obj\Debug\netcoreapp3.1\xo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alireza\source\repos\game\xo\xo\obj\Debug\netcoreapp3.1\xo.AssemblyInfoInputs.cache
+C:\Users\alireza\source\repos\game\xo\xo\obj\Debug\netcoreapp3.1\xo.AssemblyInfo.cs
+C:\Users\alireza\source\repos\game\xo\xo\obj\Debug\netcoreapp3.1\xo.csproj.CoreCompileInputs.cache
+C:\Users\alireza\source\repos\game\xo\xo\bin\Debug\netcoreapp3.1\xo.exe
+C:\Users\alireza\source\repos\game\xo\xo\bin\Debug\netcoreapp3.1\xo.deps.json
+C:\Users\alireza\source\repos\game\xo\xo\bin\Debug\netcoreapp3.1\xo.runtimeconfig.json
+C:\Users\alireza\source\repos\game\xo\xo\bin\Debug\netcoreapp3.1\xo.runtimeconfig.dev.json
+C:\Users\alireza\source\repos\game\xo\xo\bin\Debug\netcoreapp3.1\xo.dll
+C:\Users\alireza\source\repos\game\xo\xo\bin\Debug\netcoreapp3.1\xo.pdb
+C:\Users\alireza\source\repos\game\xo\xo\obj\Debug\netcoreapp3.1\xo.dll
+C:\Users\alireza\source\repos\game\xo\xo\obj\Debug\netcoreapp3.1\xo.pdb
+C:\Users\alireza\source\repos\game\xo\xo\obj\Debug\netcoreapp3.1\xo.genruntimeconfig.cache

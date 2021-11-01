@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TKnHf7UvCXk60wcK0CJ/4MwXEFDQyCtEUL98G/dX6Jos7QaxLm3tR4eY3T6WEsPMEs3l/2lVk0awL8OCtOGqBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alireza\\source\\repos\\game\\xo\\xo\\xo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alireza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\alireza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}

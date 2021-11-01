@@ -1,0 +1,31 @@
+ 
+turn of : cpu
+board[4]
+turn of : human
+board[7]
+turn of : cpu
+board[6]
+turn of : human
+board[2]
+turn of : cpu
+board[1]
+turn of : human
+board[0]
+turn of : cpu
+board[3]
+turn of : human
+board[5]
+* game tie *
+turn of : cpu
+board[1]
+turn of : human
+board[8]
+turn of : cpu
+board[2]
+turn of : human
+board[0]
+turn of : cpu
+board[9]
+turn of : human
+board[7]
+* winner is :cpu *
